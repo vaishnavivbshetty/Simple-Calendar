@@ -1,1 +1,1 @@
-# Simple-Calculator
+It's a simple calendar, that displays the dates for any month between 1990 and 2021.The user can select both month and year with pull-down menus,and the dates for the selected month will be organized according to the days of the week. 
